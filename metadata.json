@@ -1,0 +1,6 @@
+{
+  "name": "X Layer World Cup Fantasy",
+  "description": "A decentralized P2P fantasy football wager platform for the World Cup, built on X Layer. Register your username, manage your 11-aside lineup, track live match points, and wager USDC in vaults.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
